@@ -1,0 +1,1 @@
+This project is built around an MRF24WBOMA Wi-Fi module, a PIC microcontroller and a camera module using the TCP-IP protocol. The camera captures live video from a remote location, which is transmitted wirelessly through the Internet and can be viewed on a PC or laptop.
